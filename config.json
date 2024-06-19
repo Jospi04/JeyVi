@@ -6,8 +6,8 @@
 	],
 	"Propietario": [
 		[
-			"51991378809",
-			"Matt_Mdz",
+			"51916921168",
+			"Jey_Vi",
 			true
 		],
 		[
@@ -21,7 +21,7 @@
 		"+ "
 	],
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
+	"NombreDelBot": "PRUEBA-BOT",
 	"MinimoDeUsuarios": 3,
 	"Limits": {
 		"gms": 10,
