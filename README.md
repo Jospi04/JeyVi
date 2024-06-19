@@ -69,7 +69,7 @@ Note: avoid using special characters when editing the package.json, example: !, 
 ...
 
 "author": {
-"name": "Matt_Mdz" //Here enter your name or nickname!
+"name": "Matt_Mdz y Joseph" //Here enter your name or nickname!
 },
 
 ...
@@ -81,7 +81,7 @@ Note: avoid using special characters when editing the package.json, example: !, 
     
 ```javascript
 {
-"Prefijo": ".", //You can change the value with symbols, letters or special characters.
+"Prefijo": "/", //You can change the value with symbols, letters or special characters.
 	
 "MultiIdioma": [ //Multi language setting
 true, //You can change to false if you want to define your language or leave it as is
@@ -90,8 +90,8 @@ true, //You can change to false if you want to define your language or leave it 
 	
 "Propietario": [ //Owner information and adjustment 
 [
-"51991378809", //Primary owner number 
-"Matt_Mdz", //Name or nickname
+"51916921168", //Primary owner number 
+"JOZ", //Name or nickname
 true //You can use all functions
 ],
 [
@@ -108,7 +108,7 @@ false
 	
 "LocPref": "51", //Prefix of your current country (optional)
 	
-"NombreDelBot": "QUANTUM-BOT", //Name of your bot
+"NombreDelBot": "PRUEBA-BOT", //Name of your bot
 	
 "MinimoDeUsuarios": 3, //If you join your bot to a group and it does not meet this number of members, the bot will not respond at all
 	
